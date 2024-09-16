@@ -10,3 +10,5 @@
   <ul>
     <li>Desenvolvido em: 26/08/2024</li>
   </ul>
+
+<a href="https://caiorossi00.github.io/QRCode-Generator/">QRCode-Generator</a>
